@@ -64,7 +64,7 @@ function App(props) {
             align="center"
             className={classes.title}
           >
-            Have a nice weekend
+            Have a nice weekend v2
           </Typography>
           {new Date().toLocaleTimeString()}
         </Toolbar>
